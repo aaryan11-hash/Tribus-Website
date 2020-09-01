@@ -1,0 +1,31 @@
+.section-light{
+    background-color: #ffffff;
+}
+.jumbotron{
+    background: none;
+    text-align: center;
+}
+.section-dark{
+    background-color: #d3d3d3;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    padding-left:5rem;
+}
+
+.sec{
+  padding: 2rem;
+}
+.sub-cat{
+  padding-top: 2rem;
+  color: #808080;
+}
+
+.cat{
+    color: black;
+}
+
+li{
+    list-style-type: none;
+}
+
+
